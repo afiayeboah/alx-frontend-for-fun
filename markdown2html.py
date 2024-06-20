@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-markdown2html.py
-
-A script that converts Markdown files to HTML.
+markdown2html.py - A script that converts Markdown files to HTML.
 
 Usage:
     ./markdown2html.py <input_file> <output_file>
